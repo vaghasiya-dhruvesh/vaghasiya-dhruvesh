@@ -10,12 +10,7 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-
-  <!-- JSP -->
-  <a href="https://www.oracle.com/java/technologies/jspt.html" target="_blank" rel="noreferrer" title="JSP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="jsp" width="40" height="40"/>
-  </a>
-
+  
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
