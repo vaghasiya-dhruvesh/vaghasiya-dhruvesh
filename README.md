@@ -28,17 +28,18 @@
 ---
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantvaghasiya&show_icons=true&locale=en&layout=compact" alt="vedantvaghasiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaghasiya-dhruvesh&show_icons=true&locale=en&layout=compact" alt="vaghasiya-dhruvesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantvaghasiya&show_icons=true&locale=en" alt="vedantvaghasiya" /></p> <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaghasiya-dhruvesh&show_icons=true&locale=en" alt="vaghasiya-dhruvesh" /></p> <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=vedantvaghasiya&theme=default&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaghasiya-dhruvesh&theme=default&hide_border=false)<br/>
+
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaghasiya-dhruvesh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaghasiyadhruvesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaghasiya-dhruvesh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaghasiyadhruvesh@gmail.com)
 
 
 
